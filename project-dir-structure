@@ -1,0 +1,16 @@
+diff-checker
+├── pom.xml
+└── src
+    ├── main
+    │   ├── java
+    │   │   └── com
+    │   │       └── simplediff
+    │   │           └── simplediff
+    │   │               └── App.java
+    │   └── resources
+    └── test
+        └── java
+            └── com
+                └── simplediff
+                    └── simplediff
+                        └── AppTest.java
